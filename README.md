@@ -1,2 +1,2 @@
-# CSE224
+# CSE225
 Fundamentals of Android Development
